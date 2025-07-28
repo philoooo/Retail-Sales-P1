@@ -215,5 +215,5 @@ GROUP BY shift;
 
 ## Conclusion
 
-This project was a great introduction to SQL for data analysis. I built and cleaned a retail sales database, explored the data with SQL, and answered business-related questions. The insights gained—like customer preferences, high-value purchases, and sales seasonality—could help inform smarter business decisions in the real world.
+This project was a great introduction to SQL for data analysis. I built and cleaned a retail sales database, explored the data with SQL, and answered business-related questions. The insights gained customer preferences, high-value purchases, and sales seasonality, which could help inform smarter business decisions in the real world.
 
